@@ -10,11 +10,9 @@ const AboutContent = () => {
       <div className="left">
         <h1>Who Am I</h1>
         <p>
-          Hello Everyone. I am Ilija from Skopje,North Macedonia. I am Software
-          Developer focused on improving and learning every day. I have skills
-          on both sides of the story but find Front-End technologies more
-          exciting and enjoyable. Highly motivated person and I am always
-          energetic and eager to learn new skills.
+          I am Software Developer focused on improving and learning every day. I
+          have skills on both sides of the story but find Front-End technologies
+          more exciting and enjoyable.
         </p>
         <Link to="/contact">
           <button className="btn">Contact</button>
