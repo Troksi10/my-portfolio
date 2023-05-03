@@ -53,11 +53,6 @@
     margin: 2rem;
 }
 
-.content .btn :hover {
-    background-color: #1f56c6; 
-    color: white;
-}
-
 @media screen and (min-width: 650px) {
     .hero .content h1 {
         font-size: 3rem;
