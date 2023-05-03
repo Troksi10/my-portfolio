@@ -48,19 +48,22 @@ const Footer = () => {
             only God knows.
           </p>
           <div className="social">
-            <a href="https://www.facebook.com/ile.trokovski/" target="blank">
+            <a href="https://www.facebook.com/ile.trokovski/" target="_blank">
               <FaFacebook
                 size={30}
                 style={{ color: "#fff", marginRight: "1rem" }}
               />
             </a>
-            <a href="https://www.linkedin.com/in/ilija-trokovski-626655234/">
+            <a
+              href="https://www.linkedin.com/in/ilija-trokovski-626655234/"
+              target="_blank"
+            >
               <FaLinkedin
                 size={30}
                 style={{ color: "#fff", marginRight: "1rem" }}
               />
             </a>
-            <a href="https://www.instagram.com/ile_troksi/">
+            <a href="https://www.instagram.com/ile_troksi/" target="_blank">
               <FaInstagram
                 size={30}
                 style={{ color: "#fff", marginRight: "1rem" }}
