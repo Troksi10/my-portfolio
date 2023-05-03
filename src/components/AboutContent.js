@@ -10,9 +10,9 @@ const AboutContent = () => {
       <div className="left">
         <h1>Who Am I</h1>
         <p>
-          I am Software Developer focused on improving and learning every day. I
-          have skills on both sides of the story but find Front-End technologies
-          more exciting and enjoyable.
+          I am Ilija Trokovski,a Software Developer focused on improving and
+          learning every day. I have skills on both sides of the story but find
+          Front-End technologies more exciting and enjoyable.
         </p>
         <Link to="/contact">
           <button className="btn">Contact</button>
